@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **eslamahmedd171@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Re5NmRiXee2cpkuDdGBADPM530ZeEJPt/view?usp=drive_link](https://drive.google.com/file/d/1Re5NmRiXee2cpkuDdGBADPM530ZeEJPt/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eslam-ahmed-3149362b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslam-ahmed-3149362b4" height="30" width="40" /></a>
